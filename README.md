@@ -23,7 +23,7 @@
   <img align="center" alt="Typescript" height="40" src="https://xesque.rocketseat.dev/platform/tech/typescript.svg" />
   <img align="center" alt="NextJS" height="40" src="https://xesque.rocketseat.dev/platform/tech/nextjs.svg" />
   <img align="center" alt="Jest" height="40" src="https://xesque.rocketseat.dev/platform/tech/jest.svg" />
-  
+  <!-- icons from: https://www.rocketseat.com.br-->
 </div>
   
   ##
