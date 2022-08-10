@@ -20,6 +20,7 @@
   <img align="center" alt="Python" height="40" src="https://xesque.rocketseat.dev/platform/tech/python.svg" />
   <img align="center" alt="Flask" height="40"" src="https://xesque.rocketseat.dev/platform/tech/flask.svg" />
   <img align="center" alt="PostgreSQL" height="40" src="https://xesque.rocketseat.dev/platform/tech/postgresql.svg" />
+  <img align="center" alt="PostgreSQL" height="40" src="https://xesque.rocketseat.dev/platform/tech/aws.svg" />
   <img align="center" alt="Typescript" height="40" src="https://xesque.rocketseat.dev/platform/tech/typescript.svg" />
   <img align="center" alt="NextJS" height="40" src="https://xesque.rocketseat.dev/platform/tech/nextjs.svg" />
   <img align="center" alt="Jest" height="40" src="https://xesque.rocketseat.dev/platform/tech/jest.svg" />
