@@ -24,13 +24,13 @@
   <img align="center" alt="Typescript" height="40" src="https://xesque.rocketseat.dev/platform/tech/typescript.svg" />
   <img align="center" alt="NextJS" height="40" src="https://xesque.rocketseat.dev/platform/tech/nextjs.svg" />
   <img align="center" alt="Jest" height="40" src="https://xesque.rocketseat.dev/platform/tech/jest.svg" />
+  <img align="center" alt="Docker" height="40" src="https://xesque.rocketseat.dev/platform/tech/docker.svg" />
   <!-- icons from: https://www.rocketseat.com.br-->
-</div>
+</div>  
   
-  ##
+  ##  
  
-<div> 
-
+<div>
   <a href="https://www.linkedin.com/in/alysson-barrera/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:alyssonbarrera.s@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/alyssonbarrera/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
