@@ -9,7 +9,6 @@
   <img align="center" alt="HTML" height="40" src="https://xesque.rocketseat.dev/platform/tech/html5.svg" />
   <img align="center" alt="CSS" height="40" src="https://xesque.rocketseat.dev/platform/tech/css3.svg" />
   <img align="center" alt="JS" height="40" src="https://xesque.rocketseat.dev/platform/tech/javascript.svg" />
-  <img align="center" alt="jQuery" height="40" src="https://xesque.rocketseat.dev/platform/tech/jquery.svg" />
   <img align="center" alt="Bootstrap" height="40" src="https://xesque.rocketseat.dev/platform/tech/bootstrap.svg" />
   <img align="center" alt="Git" height="40" src="https://xesque.rocketseat.dev/platform/tech/git.svg" />
   <img align="center" alt="NodeJS" height="40" src="https://xesque.rocketseat.dev/platform/tech/node.svg" />
