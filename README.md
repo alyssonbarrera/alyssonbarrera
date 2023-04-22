@@ -19,6 +19,7 @@
   <img align="center" alt="Tailwind" height="40" src="https://xesque.rocketseat.dev/platform/tech/tailwind.svg" />
   <img align="center" alt="Python" height="40" src="https://xesque.rocketseat.dev/platform/tech/python.svg" />
   <img align="center" alt="Flask" height="40"" src="https://xesque.rocketseat.dev/platform/tech/flask.svg" />
+  <img align="center" alt="Django" height="40" src="https://xesque.rocketseat.dev/platform/tech/django.svg" />
   <img align="center" alt="PostgreSQL" height="40" src="https://xesque.rocketseat.dev/platform/tech/postgresql.svg" />
   <img align="center" alt="AWS" height="40" src="https://xesque.rocketseat.dev/platform/tech/aws.svg" />
   <img align="center" alt="Typescript" height="40" src="https://xesque.rocketseat.dev/platform/tech/typescript.svg" />
