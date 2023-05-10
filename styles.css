@@ -1,0 +1,29 @@
+.icons-container {
+  display: flex;
+  justify-content: center;
+}
+
+.icons {
+  display: flex;
+  margin: 0 auto;
+  flex-wrap: wrap;
+}
+
+.icons img {
+  margin: 2px;
+}
+
+.rounded-icon {
+  border-radius: 6px;
+}
+
+.contact-container {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  gap: 4px;
+}
+
+.contact-container a img {
+  border-radius: 4px;
+}
