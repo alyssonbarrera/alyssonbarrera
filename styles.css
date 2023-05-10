@@ -12,14 +12,3 @@
 .icons img {
   margin: 2px;
 }
-
-.rounded-icon {
-  border-radius: 6px;
-}
-
-.contact-container {
-  display: flex;
-  justify-content: center;
-  margin: 0 auto;
-  gap: 4px;
-}
