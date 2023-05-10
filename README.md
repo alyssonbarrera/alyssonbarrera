@@ -29,8 +29,8 @@
     <img alt="React Native" height="40" src="https://xesque.rocketseat.dev/platform/tech/react-native.svg" />
     <img alt="Expo" height="40" src="https://xesque.rocketseat.dev/platform/tech/1663680122056.svg" />
     <img alt="Socket.io" height="40" src="https://xesque.rocketseat.dev/platform/tech/socket-io.svg" />
-    <img class="rounded-icon" alt="Fastify" height="40" src="https://xesque.rocketseat.dev/platform/tech/1683662269999.png" />
-    <img class="rounded-icon" alt="Vitest" height="40" src="https://xesque.rocketseat.dev/platform/tech/1683662540257.jpeg" />
+    <img alt="Fastify" height="40" src="https://xesque.rocketseat.dev/platform/tech/1683662269999.png" />
+    <img alt="Vitest" height="40" src="https://xesque.rocketseat.dev/platform/tech/1683662540257.jpeg" />
     <!-- icons from: https://www.rocketseat.com.br-->
   </div>  
 </div>
