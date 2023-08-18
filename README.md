@@ -31,6 +31,7 @@
     <img alt="Socket.io" height="40" src="https://xesque.rocketseat.dev/platform/tech/socket-io.svg" />
     <img alt="Fastify" height="40" src="https://xesque.rocketseat.dev/platform/tech/1683662269999.png" />
     <img alt="Vitest" height="40" src="https://xesque.rocketseat.dev/platform/tech/1683662540257.jpeg" />
+    <img alt="Zustand" height="40" src="https://xesque.rocketseat.dev/platform/tech/1683814464431.png" />
     <img alt="StoryBook" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />
     <!-- icons from: https://www.rocketseat.com.br-->
   </div>  
