@@ -33,6 +33,7 @@
     <img alt="Vitest" height="40" src="https://xesque.rocketseat.dev/platform/tech/1683662540257.jpeg" />
     <img alt="Zustand" height="40" src="https://xesque.rocketseat.dev/platform/tech/1683814464431.png" />
     <img alt="StoryBook" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />
+    <img alt="NestJS" height="40" src="https://xesque.rocketseat.dev/platform/tech/1663679627579.svg" />
     <!-- icons from: https://www.rocketseat.com.br-->
   </div>  
 </div>
